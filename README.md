@@ -1,0 +1,1 @@
+# Django Girls example project
